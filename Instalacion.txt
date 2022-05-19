@@ -1,0 +1,9 @@
+1. Copiar la carpeta a htdocs
+
+2. Entrar a phpmyadmin y crear una base de datos
+
+3. Importar 'store.sql' (o 'bddcarrito.sql' si quieres tener ya datos dentro de la página) de la carpeta DataBase a la base de datos previamente creada
+	
+4. Configure el archivo 'configServer.php' dentro de la carpeta library
+
+5. Listo para usar
